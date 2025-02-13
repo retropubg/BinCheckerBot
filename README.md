@@ -13,11 +13,9 @@ Test Bot: [Bin Checker Bot](https://t.me/phpBinBot)
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zYxDevs/BinCheckerBot)
 
 ### Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=[https%3A%2F%2Fgithub.com%2Fretropubg%2FBinCheckerBot](https://github.com/retropubg/BinChecker)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=[https://github.com/retropubg/BinCheckerBot])
 
-### 000webhost
-[![Deploy on 000webhost](https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/000webhost-logo.svg)](https://www.000webhost.com)
-
+ñ
 ##
 ```
 ✔ Tested on Heroku
